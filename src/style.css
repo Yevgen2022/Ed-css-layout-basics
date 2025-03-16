@@ -1,34 +1,71 @@
-body {}
 
-main {}
+/* Change the rule for calculating element size */
+body {
+    box-sizing: border-box;
+}
+
+
+/* Create a page skeleton based on CSS Float */
+main {
+    float: left;
+    width: 70%;
+}
 
 aside {
     height: 150vh;
+    float: right;
+    width: 30%;
+    position: relative;
+    z-index: 1;
 }
 
-header {}
+header {
+    width: 100%;
+}
 
-footer {}
+footer {
+    width: 100%;
+}
 
+/* Style sidebar */
 .info {
     height: 460px;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 form {
     left: 0;
     bottom: 0;
     width: 100%;
+    position: absolute;
+    bottom: 0;
 }
 
-.header_line {}
 
+/* Style header */
+.header_line {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+
+/* Style main content */
 .client_stories {
     margin: var(--space-size);
+    column-count: 3;
+    column-gap: 20px;
 }
 
 .features {
     background: var(--primary-color);
     padding-top: var(--space-size);
+    column-count: 2;
+    column-gap: 0;
 }
 
-h2 {}
+h2 {
+    column-span: all;
+}
