@@ -30,8 +30,7 @@ footer {
 /* Style sidebar */
 .info {
     height: 460px;
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: auto;
 }
 
 form {
@@ -48,7 +47,6 @@ form {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 10;
 }
 
 
