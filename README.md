@@ -2,15 +2,10 @@
 
 A page layout project focused on applying classic CSS techniques including float-based layout, column structures, and precise box-model control. The task was to match a mock-up layout while working only with the CSS file and keeping the HTML structure untouched.
 
-## 🚀 Live Demo
-👉 [Click here to view](https://css-layout-basics-423724.gitlab.io)
+## Live Demo
+[Click here to view](https://css-layout-basics-423724.gitlab.io)
 
-<!-- ## 📁 Repository
-👉 [GitLab Repo](https://gitlab.com/Yevhen2022/css-float-layout)
-
---- -->
-
-## 🧠 Key Concepts Applied
+## Key Concepts Applied
 
 - Used `float` to position `<aside>` and `<main>` side-by-side according to classic layout rules
 - Applied fixed `width` values to layout elements (`header`, `footer`, `main`, `aside`) to match the mock-up
@@ -21,7 +16,7 @@ A page layout project focused on applying classic CSS techniques including float
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - HTML5
 - CSS3
@@ -32,6 +27,6 @@ A page layout project focused on applying classic CSS techniques including float
 
 ---
 
-## 📝 Task Instructions
+## Task Instructions
 
 See [REQUIREMENTS.md](./REQUIREMENTS.md) for the original training task description and technical requirements.
