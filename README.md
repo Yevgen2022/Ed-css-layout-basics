@@ -3,12 +3,12 @@
 A page layout project focused on applying classic CSS techniques including float-based layout, column structures, and precise box-model control. The task was to match a mock-up layout while working only with the CSS file and keeping the HTML structure untouched.
 
 ## 🚀 Live Demo
-👉 [Click here to view](https://your-live-demo-link.gitlab.io)
+👉 [Click here to view](https://css-layout-basics-423724.gitlab.io)
 
-## 📁 Repository
+<!-- ## 📁 Repository
 👉 [GitLab Repo](https://gitlab.com/Yevhen2022/css-float-layout)
 
----
+--- -->
 
 ## 🧠 Key Concepts Applied
 
