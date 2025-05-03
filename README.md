@@ -3,7 +3,7 @@
 A page layout project focused on applying classic CSS techniques including float-based layout, column structures, and precise box-model control. The task was to match a mock-up layout while working only with the CSS file and keeping the HTML structure untouched.
 
 ## Live Demo
-[Click here to view](https://css-layout-basics-423724.gitlab.io)
+[Click here to view](https://yevgen2022.github.io/Ed-css-layout-basics/)
 
 ## Key Concepts Applied
 
